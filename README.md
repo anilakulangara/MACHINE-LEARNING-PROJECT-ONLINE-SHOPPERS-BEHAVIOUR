@@ -22,3 +22,37 @@
 
 #### Source: UCI Repository - Online Shoppers Purchasing Intention Dataset
 
+### TECHNOLOGIES USED
+
+-Python 
+
+-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+
+-Jupyter Notebook for development and visualization
+
+### Project Workflow
+1. Overview of Problem statement 
+2. Objective 
+3. Data description
+4. Data collection
+5. Data preprocessing-Data cleaning
+6. Exploratory Data Analysis (EDA):
+7. Feature Engineering:
+8. Feature Selection:
+9. Feature scaling
+10. Split Data into Training and Testing Sets
+11. Build the ML Model.(at least 5)
+12. Model Evaluation.
+13. Hyperparameter Tuning and  pipeline
+14. Save the Model.
+15. Test with Unseen Data.
+16. Interpretation of Results (Conclusion).
+17. Future Work.
+
+ ### Conclusion
+This project successfully demonstrated how machine learning can help predict customer purchase behavior using session data. 
+
+
+
+
+
